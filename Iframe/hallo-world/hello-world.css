@@ -1,0 +1,14 @@
+div {
+    text-align: center;
+    font-weight: normal;
+    padding: 1em;
+    margin: 0 0 2em 0;
+    background-color: #eee;
+    border: 1px solid #666;
+    font-weight: bold;
+    color: red;
+}
+
+body {
+    font-family: sans-serif;
+}
